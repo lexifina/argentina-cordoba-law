@@ -1,0 +1,19 @@
+{
+ "country": "AR-X",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Córdoba",
+   "url": "https://legislaturacba.gob.ar/constitucion-de-la-provincia-de-cordoba/",
+   "versions": [
+    {
+     "from": "2001-12-10",
+     "units": 202,
+     "source_url": "https://legislaturacba.gob.ar/constitucion-de-la-provincia-de-cordoba/",
+     "sha256": "58d5602d53fa9d921ead405870f2a4c6b560fe1ad010ea70b9a55acefd3e75ef"
+    }
+   ]
+  }
+ ]
+}

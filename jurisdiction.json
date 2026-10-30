@@ -1,0 +1,11 @@
+{
+  "path": "ar-x",
+  "code": "AR-X",
+  "name": "Córdoba",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-cordoba-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://legislaturacba.gob.ar/",
+  "language": "es",
+  "sources": 1
+}
